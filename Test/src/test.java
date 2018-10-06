@@ -22,7 +22,7 @@ public class test {
 	driver2.findElement(By.id("LoginButton")).click();
 
 	try {
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		} catch (Exception e) {
 			
 		}
