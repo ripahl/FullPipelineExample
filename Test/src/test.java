@@ -28,6 +28,6 @@ public class test {
 		}
 	
 	System.out.println(driver2.getTitle());
-
+// Sample Code for testing
 }
 }
